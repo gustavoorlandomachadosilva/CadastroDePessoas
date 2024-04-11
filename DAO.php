@@ -1,5 +1,5 @@
 <?php
-    include_once '../TesteBancoPostgres/dbConnection.php';
+    include_once '../CRUD/dbConnection.php';
     
     class DAO {
         //CREATE

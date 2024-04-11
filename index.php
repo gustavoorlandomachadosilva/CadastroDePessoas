@@ -1,6 +1,6 @@
 <?php
-include_once '../TesteBancoPostgres/DAO.php';
-include_once '../TesteBancoPostgres/dbConnection.php';
+include_once '../CRUD/DAO.php';
+include_once '../CRUD/dbConnection.php';
 
 $classeDao = new DAO;
 $conexao = new dbConnection;
